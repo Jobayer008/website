@@ -1,0 +1,31 @@
+nav div .amarlogo{
+    width: 100px;
+    height:100px;
+    border-radius:50%;
+    
+
+}
+.amarheading{
+    background:#34495e;
+    color:#e67e22;
+    text-align: center;
+}
+/*-------footer start--*/
+.bottom-container{
+
+    background-color: black;
+    text-align: center;
+    padding:10px;
+}
+.bottom-container a{
+
+    color:white;
+    text-decoration: none;
+    margin:20px;
+}
+.bottom-container p{
+
+    color:white;
+    
+    margin-top:20px;
+}
